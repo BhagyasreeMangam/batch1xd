@@ -848,7 +848,7 @@
          height: 450px;
      }
 }
- /* @media screen and (min-width: 1024px ) and (max-width: 1038px ){ 
+ @media screen and (min-width: 1024px ) and (max-width: 1038px ){ 
         .about_section_heading {
             font-size: 32px;
            
@@ -859,8 +859,13 @@
         }
         .about_smile_image {
             width: 240px;
+            height:300px
         }
- } */
+     .need_button{
+         width:130px;
+         height:37px;
+         font-size:15px
+ }
 
 
 
